@@ -25,11 +25,15 @@ git clone https://github.com/ahmdfauzzan/ArticlesApp-Next.git
 
 ### 2. Masuk ke direktori
 
-cd testND
+cd ArticlesApp
 
 ### 3. Install dependencies
 
 npm install
+
+### 3. Tambah Environment Variabel
+
+Buat file .env dan masukkan api dengan nama NEXT_PUBLIC_API_URL
 
 ### 4. Jalankan aplikasi
 
