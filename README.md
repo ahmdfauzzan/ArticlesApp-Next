@@ -31,11 +31,11 @@ cd ArticlesApp
 
 npm install
 
-### 3. Tambah Environment Variabel
+### 4. Tambah Environment Variabel
 
 Buat file .env dan masukkan api dengan nama NEXT_PUBLIC_API_URL
 
-### 4. Jalankan aplikasi
+### 5. Jalankan aplikasi
 
 npm run dev
 
